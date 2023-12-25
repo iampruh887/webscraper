@@ -1,0 +1,10 @@
+1. activate venv environment by getting into /venve/Scripts then activate the .bat file w/ powershell
+2. $ pip install scrapy
+3. $ pip install ipython
+4. $ start scrapy <project_name>
+5. $ cd <project_name>
+6. $ scrapy genspider <spider_name> <website>
+7. $ scrapy shell
+8. [] fetch('<website>')
+9. [] response
+10. [] response.css('<elements>') // see examples
